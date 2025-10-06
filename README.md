@@ -66,12 +66,12 @@ python3 test_function.py --dataset cub --name your-exp-name --n_shot 1
 # 4 Citing
 If you find our paper or this code useful for your research, please considering cite us (●°u°●)」:
 ```
-@inproceedings{fu2023styleadv,
-  title={StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning},
-  author={Fu, Yuqian and Xie, Yu and Fu, Yanwei and Jiang, Yu-Gang},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={24575--24584},
-  year={2023}
+
+@article{fu2022wave,
+  title={Wave-SAN: Wavelet based Style Augmentation Network for Cross-Domain Few-Shot Learning},
+  author={Fu, Yuqian and Xie, Yu and Fu, Yanwei and Chen, Jingjing and Jiang, Yu-Gang},
+  journal={arXiv preprint},
+  year={2022}
 }
 ```
 
